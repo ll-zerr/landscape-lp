@@ -11,6 +11,8 @@ The goal of the initial project was to have the browser open with a split screen
 - Add the CSS styles to reflect the original project with changes to overlay and button colors.
 - Create and add the logo to the navigation bar and adjust the number of nav items in the nav bar.
 - Add a media query for medium screens and style the contact button in nav.
+- Turn nav items into links and add effects for them on hover. 
+- Change opacity of overlay to reveal more detail of images.
 
 ### View My Project: 
 
