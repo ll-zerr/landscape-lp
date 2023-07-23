@@ -8,6 +8,8 @@
     --hover-width: 75%;
     --other-width: 25%;
     --speed: 1000ms;
+    --hover-height: 75%;
+    --other-height: 25%;
 }
 
 * {
@@ -195,4 +197,37 @@ figure {
         padding: 1.2rem;
         width: 12rem;
     }
+}
+
+@media(max-width: 900px) {
+    h1 {
+        top: 20%;
+    }
+
+    .split {
+        position: relative;
+        width: 100%;
+        height: 50%;
+    }
+
+    .hover-left .left, .hover-left .right, .hover-right .right, .hover-right .left {
+        width: 100%;
+    }
+
+    .hover-left .left {
+        height: var(--hover-height);
+    }
+    
+    .hover-left .right {
+        height: var(--other-height);
+    }
+    
+    .hover-right .right {
+        height: var(--hover-height);
+    }
+    
+    .hover-right .left {
+        height: var(--other-height);
+    }
+
 }
