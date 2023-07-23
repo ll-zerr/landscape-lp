@@ -4,22 +4,11 @@ This is a modification to the [Split Landing Page project (Day 7) in the Udemy c
 
 ## Project Details
 
-The goal of the initial project was to have the browser open with a split screen holding two product images with overlays and the option to purchase the products. I wanted to utilize this base code in a website for a landscaping company. To accomplish this, I had to:
+The goal of the initial project was to have the browser open with a split screen holding two product images with overlays and the option to purchase the products. I wanted to utilize this base code in a landing page for a landscaping company. To accomplish this, I had to:
 
-## My Process
-
-- Start the files from a boiler template created with the 50 projects-50 days initiation.
-- Code up the basic HTML to reflect the original project with the addition of a navigation bar that holds a logo and nav items.
-- Add the CSS styles to reflect the original project with changes to overlay and button colors.
-- Create and add the logo to the navigation bar and adjust the number of nav items in the nav bar.
-- Add a media query for medium screens and style the contact button in nav.
-- Turn nav items into links and add effects for them on hover. 
-- Change opacity of overlay to reveal more detail of images.
-- Apply media queries for smaller screens. (This was a point where I needed to really evaluate the new layout and how I wanted the elements to respond here.)
-
-### Continued development
-
-Although a majority of applications are coded mobile first for responsive design, this particular website was designed for a desktop format first. Creating a responsive design from desktop to mobile has always been a challenge for me. This project allowed me to exercise my responsive development skills when going from desktop to mobile layouts.
+- Create a navigation bar with a logo and links to other pages on the site.
+- Adjust styles to accommodate the new headers.
+- Add media queries to apply a responsive design.
 
 ### View My Project: 
 
@@ -35,6 +24,21 @@ Although a majority of applications are coded mobile first for responsive design
 - HTML5
 - CSS3
 - JavaScript
+
+## My Process
+
+- Start the files from a boiler template.
+- Code the basic HTML to reflect the original project with the addition of a navigation bar that holds a logo and links.
+- Add the CSS styles to reflect the original project with changes to overlay and button colors.
+- Create and add the logo to the navigation bar and adjust the number of nav items.
+- Add a media query for medium screens and style the contact button.
+- Turn nav items into links and add effects for them on hover. 
+- Change opacity of overlay to reveal more detail of images.
+- Apply media queries for smaller screens. (This was a point where I needed to really evaluate the new layout and how I wanted the elements to respond here.)
+
+### Continued development
+
+Although a majority of applications are coded mobile first for responsive design, this particular website was designed for a desktop format first. Creating a responsive design from desktop to mobile has always been a challenge for me. This project allowed me to exercise my responsive development skills when going from desktop to mobile layouts.
 
 ## Acknowledgements
 
