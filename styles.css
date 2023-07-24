@@ -204,6 +204,19 @@ figure {
         top: 20%;
     }
 
+    .btn {
+        transform: translate(-50%, 30%);
+    }
+
+    .nav-list {
+        padding: 0;
+        width: auto;
+    }
+
+    .nav-item {
+        margin-right: 20px;
+    }
+
     .split {
         position: relative;
         width: 100%;
@@ -229,5 +242,21 @@ figure {
     .hover-right .left {
         height: var(--other-height);
     }
+
+}
+
+@media(max-width: 725px) {
+    figure {
+        margin-left: 20px;
+    }
+
+    .nav {
+        display: block;
+    }
+
+    .logo {
+        justify-content: flex-start;
+    }
+
 
 }

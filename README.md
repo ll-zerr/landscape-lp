@@ -38,7 +38,7 @@ The goal of the initial project was to have the browser open with a split screen
 
 ### Continued development
 
-Although a majority of applications are coded mobile first for responsive design, this particular website was designed for a desktop format first. Creating a responsive design from desktop to mobile has always been a challenge for me. This project allowed me to exercise my responsive development skills when going from desktop to mobile layouts.
+Although a majority of applications are coded mobile first for responsive design, this particular project was designed for a desktop format first. Creating a responsive design from desktop to mobile has always been a challenge for me. This project allowed me to exercise my responsive development skills when going from desktop to mobile layouts.
 
 ## Acknowledgements
 
