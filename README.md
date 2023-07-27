@@ -9,6 +9,7 @@ The goal of the initial project was to have the browser open with a split screen
 - Create a navigation bar with a logo and links to other pages on the site.
 - Adjust styles to accommodate the new headers.
 - Add media queries to apply a responsive design.
+- Add a hamburger toggle for mobile screens.
 
 ### View My Project: 
 
@@ -18,6 +19,7 @@ The goal of the initial project was to have the browser open with a split screen
 
 - Page loads with split screen that highlights two landscape packages.
 - The screen for each package increases or decreases with mouseover.
+- Layout is responsive to screen size.
 
 ## Technologies Used
 
@@ -35,6 +37,7 @@ The goal of the initial project was to have the browser open with a split screen
 - Turn nav items into links and add effects for them on hover. 
 - Change opacity of overlay to reveal more detail of images.
 - Apply media queries for smaller screens. (This was a point where I needed to really evaluate the new layout and how I wanted the elements to respond here.)
+- Add a toggle hamburger to reveal the nav menu when clicked on smaller screens.
 
 ### Continued development
 
