@@ -334,7 +334,31 @@ figure {
 
 @media(max-width: 400px) {
     h1 {
-        font-size: 1.75rem;
+        font-size: 1.45rem;
         top: 25%;
-    } 
+    }
+    
+    h2 {
+        font-size: 1.25rem;
+    }
+
+    figure {
+        margin-left: 5px;
+    }
+
+    .nav-toggle {
+        width: 2.5rem;
+        height: 2.5rem;
+        right: 8px;
+    }
+
+    .nav-list {
+        padding-left: 15px;
+        top: 56px;
+    }
+
+    .nav-item {
+        font-size: smaller;
+        margin-right: 15px;
+    }
 }
