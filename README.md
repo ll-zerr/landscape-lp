@@ -38,6 +38,7 @@ The goal of the initial project was to have the browser open with a split screen
 - Change opacity of overlay to reveal more detail of images.
 - Apply media queries for smaller screens. (This was a point where I needed to really evaluate the new layout and how I wanted the elements to respond here.)
 - Add a toggle hamburger to reveal the nav menu when clicked on smaller screens.
+- Add media query for xsmall screens.
 
 ### Continued development
 
