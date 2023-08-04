@@ -56,11 +56,16 @@ figure {
 
 .nav {
     background-color: rgb(82, 87, 85);
+    width: 100%;
+    height: 60px;
+}
+
+.content-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    height: 60px;
+    max-width: 1600px;
+    margin: auto;
 }
 
 .nav-toggle {
