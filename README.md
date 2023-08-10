@@ -7,7 +7,7 @@ This is a modification to the [Split Landing Page project (Day 7) in the Udemy c
 The goal of the initial project was to have the browser open with a split screen holding two product images with overlays and the option to purchase the products. I wanted to utilize this base code in a landing page for a landscaping company. To accomplish this, I had to:
 
 - Create a navigation bar with a logo and links to other pages on the site.
-- Adjust styles to accommodate the new headers.
+- Adjust styles to accommodate the new header.
 - Add media queries to apply a responsive design.
 - Add a hamburger toggle for mobile screens.
 
